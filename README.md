@@ -29,7 +29,7 @@ Here are a few things I've picked up along my learning journey.
 <p>
 Check out what I'm currently involved in.
 
-- Doing some open-source examples. Which you can see in my github.
+- Learning Angular 17 from scratch with some open-source examples. Which you can see in my github.
 
 </p>
 
