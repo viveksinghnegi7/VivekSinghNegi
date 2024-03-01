@@ -42,6 +42,5 @@ Here are some things on my to-do list.
 
 ---
 
-`Reach out to me on any of the social links above to talk about possible opportunities, mentorship, collaborations and everything in between!`
 
 
